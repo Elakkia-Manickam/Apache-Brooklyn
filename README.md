@@ -25,6 +25,8 @@ $ PATH=$JAVA_HOME/bin:$PATH
 
 
 # Install Apache Brooklyn
+# link to follow
+https://brooklyn.apache.org/v/latest/start/running.html
 
 # Choose appropriate package RPM pavkage  
 https://www.apache.org/dyn/closer.lua/brooklyn/apache-brooklyn-0.12.0/apache-brooklyn-0.12.0-1.noarch.rpm
