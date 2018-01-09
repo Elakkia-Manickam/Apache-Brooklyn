@@ -16,13 +16,18 @@ java –version
 
 # step 3 : Chenge the environmant settings (temporarily)
 $ JAVA_HOME=/usr/java/jdk1.7.0_05
+
 $ export JAVA_HOME
+
 $ PATH=$JAVA_HOME/bin:$PATH
+
 $ export PATH
 
 # step 4 : change the environment settings (permanently)
 $ vi .bashrc
+
 $ JAVA_HOME=/usr/java/jdk1.7.0_05
+
 $ PATH=$JAVA_HOME/bin:$PATH
 
 
