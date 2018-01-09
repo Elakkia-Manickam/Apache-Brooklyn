@@ -1,7 +1,10 @@
 # Apache-Brooklyn
 Apache Brooklyn steps to launch in Red hat
+# Pre requirement
+Java Runtime Environment (JRE) installed (version 7 or later)
 
-#  Java Runtime Environment (JRE) installed (version 7 or later)
+
+#  Java Runtime Environment (JRE) installation steps
 # link to follow
 http://linuxtechlab.com/installing-java-7-8-centosrhel-7/
 
